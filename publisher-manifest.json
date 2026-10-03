@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6daf9a2b54fa514247edf5f6",
+  "owner": "dkugxjkxpqg",
+  "repo": "page-153959e98618c62ad6c32558",
+  "title": "快狗",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "153959e98618c62ad6c32558",
+      "a": "快狗",
+      "b": "",
+      "entity": "快狗",
+      "brand": "快狗",
+      "separator": "",
+      "path": "index.html",
+      "hash": "847a7a9de442dd64ce7a2fdba3161804bb2b46340fe90b2705d997902a556038",
+      "content": {
+        "keyword1": "快狗",
+        "keyword2": "",
+        "primary_entity": "快狗",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快狗提供机场订阅与VPN梯子网络加速服务，支持多端客户端下载与节点接入，适合办公、流媒体与游戏加速场景。",
+          "AI_DESCRIPTION": "快狗提供机场订阅与VPN梯子网络加速服务，支持多端客户端下载与节点接入，适合办公、流媒体与游戏加速场景。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#FFF8F3;color:#2B2623;line-height:1.75;overflow-x:hidden}a{color:#C44536}a:hover{text-decoration:underline}img,svg{display:none}.wrap{max-width:900px;margin:0 auto;padding:0 20px}header{background:#fff;border-bottom:1px solid #F0D9D0;padding:16px 0} .logo{font-weight:700;color:#C44536;font-size:1.2rem}nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:10px;font-size:.95rem}nav a{color:#3A3330;text-decoration:none}nav a:hover{color:#C44536}.hero{padding:80px 0 40px}.hero p.kicker{color:#C44536;font-size:.9rem;letter-spacing:.08em;margin-bottom:18px}h1{font-size:clamp(2rem,7.2vw,2.85rem);line-height:1.22;color:#1F1C1A;margin-bottom:22px;font-weight:750} .lead{font-size:1.12rem;color:#5A524C;max-width:34em}h2{font-size:1.45rem;margin:52px 0 14px;color:#1F1C1A}h3{font-size:1.12rem;margin:22px 0 8px;color:#3A3330}p{margin-bottom:12px}ul{padding-left:1.2em;margin-bottom:12px}li{margin-bottom:6px}.muted{color:#6B635C}.card{background:#fff;border:1px solid #F0D9D0;border-radius:12px;padding:18px 18px 8px;margin:14px 0}.plans{display:flex;flex-direction:column;gap:14px}.plan{background:#fff;border:1px solid #E8C9C0;border-radius:14px;padding:20px}.plan.feat{border:2px solid #E85A4F}.price{font-size:1.55rem;color:#C44536;font-weight:700}.annual{color:#6B635C;font-size:.92rem;margin:6px 0 12px}.btn{display:inline-block;background:#E85A4F;color:#fff;text-decoration:none;padding:10px 16px;border-radius:8px;margin-top:8px;font-weight:600}.btn:hover{background:#C44536;text-decoration:none}.tag{display:inline-block;background:#FFE8E2;color:#C44536;font-size:.75rem;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}.client{background:#fff;border-left:4px solid #E85A4F;padding:14px 16px;margin:10px 0;border-radius:0 10px 10px 0}details{background:#fff;border:1px solid #F0D9D0;border-radius:10px;padding:12px 16px;margin:10px 0}summary{font-weight:650;color:#2B2623}details p{margin-top:10px;color:#4A4440}.ads,.friends{background:#FFF5F0;border:1px dashed #E8C9C0;border-radius:10px;padding:16px;margin:24px 0}.friends ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:8px 18px}footer{background:#2B2623;color:#F5EDE8;padding:28px 0;margin-top:56px;font-size:.9rem}footer a{color:#F4A261} @media(min-width:760px){.plans{flex-direction:row;align-items:stretch}.plan{flex:1}}</style><header><div class=\"wrap\"><div class=\"logo\">快狗官网</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端选择</a><a href=\"#plans\">套餐</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a></nav></div></header><main><div class=\"wrap\"><section class=\"hero\" id=\"download\"><p class=\"kicker\">OFFICIAL · 机场订阅与多端客户端</p><h1>快狗：机场订阅、VPN 梯子与客户端官方下载</h1><p class=\"lead\">快狗把线路节点、订阅导入和客户端选择放在同一套说明里。你可以按设备挑选客户端，再按套餐获取订阅，完成网络加速与跨境访问配置。</p></section><section id=\"intro\"><h2>品牌简介</h2><p>快狗是面向个人与小团队的网络加速服务，核心能力是机场订阅、VPN 梯子接入以及多平台客户端适配。服务侧提供普通线路与 IPLC 专线节点池，用于网页访问、流媒体解锁和游戏加速；客户端侧覆盖 Windows、macOS、Android、iOS 与常见路由环境。</p><p>与把“下载包”单独拆站不同，快狗官网把套餐权益、客户端选择和导入步骤写在同一页面，减少来回跳转。订阅采用通用链接格式，可导入主流 Clash 内核、Shadowrocket 等工具。流量按月重置，设备台数按套餐限制，避免多人共用造成的会话冲突。</p><p class=\"muted\">本页为快狗官方网站信息页，用于说明套餐、下载入口与配置顺序。下载与节点名称以你账户内的订阅内容为准。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"card\"><h3>远程办公与资料协作</h3><p>在公共网络或不稳定宽带下，通过快狗节点访问云文档、代码仓库和会议系统，降低握手失败与中途掉线。团队版可按部门划分设备数，减少账号混用。</p><h3>学习科研与文献检索</h3><p>需要查阅海外期刊、公开课或开发者文档时，选择延迟更低的线路即可。基础版覆盖日常检索；需要长时间高清课程时，旗舰版的流量更从容。</p><h3>流媒体与内容浏览</h3><p>旗舰版强调全节点原生流媒体解锁，适合对地区内容库有明确需求的用户。基础版提供基础解锁，满足常见平台的常规清晰度播放。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟抖动敏感的对局。请在客户端中固定游戏向节点，避免自动切换带来的路由跳动。</p></div></section><section id=\"clients\"><h2>客户端选择</h2><p>快狗订阅可导入主流代理客户端。请先确认系统版本，再下载对应客户端，最后粘贴订阅链接。以下为官网推荐的选择顺序，强调“先选客户端、再导入订阅”。</p><div class=\"client\" id=\"win\"><h3>Windows</h3><p>推荐 Clash 内核图形客户端或 v2rayN。安装后选择订阅管理，粘贴快狗订阅地址，更新节点后开启系统代理。若公司电脑限制安装，可使用便携版并仅对浏览器生效。</p><p><a class=\"btn\" href=\"#download\">Windows 客户端说明</a></p></div><div class=\"client\" id=\"mac\"><h3>macOS</h3><p>轻量需求可用 ClashX Meta；需要规则分流与网关能力时使用 Surge。导入订阅后开启增强模式，并把浏览器、终端加入需要走代理的名单，避免系统更新走错线路。</p><p><a class=\"btn\" href=\"#download\">macOS 客户端说明</a></p></div><div class=\"client\" id=\"android\"><h3>Android</h3><p>推荐 Clash Meta for Android。允许 VPN 权限后导入订阅，按应用分流：仅让浏览器、视频和游戏走加速，即时通讯可直连以节省流量。</p><p><a class=\"btn\" href=\"#download\">Android 客户端说明</a></p></div><div class=\"client\" id=\"ios\"><h3>iOS / iPadOS</h3><p>常用 Shadowrocket 或 Stash。从 App Store 安装客户端后，用 Safari 打开订阅或手动粘贴 URL。首次连接需在系统设置中允许 VPN 配置。iOS 对后台 VPN 较敏感，建议关闭多余分流规则。</p><p><a class=\"btn\" href=\"#download\">iOS 客户端说明</a></p></div><div class=\"client\"><h3>路由器与多设备</h3><p>家庭或多终端场景，可在支持 Clash / sing-box 的路由固件中导入同一订阅。团队版提供更高设备上限与定制路由说明，适合把加速下沉到网关而不是每台手机单独拨号。</p></div></section><section id=\"plans\"><h2>套餐与流量</h2><p>三档套餐按流量、同时在线设备和线路类型区分。年付按 10 个月计，便于长期使用。节点会随线路质量调整，不在此页承诺固定 IP。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"btn\" href=\"#guide\">获取基础版订阅</a></p></article><article class=\"plan feat\"><h3>旗舰版<span class=\"tag\">主推</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"btn\" href=\"#guide\">获取旗舰版订阅</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"btn\" href=\"#guide\">获取团队版订阅</a></p></article></div></section><section id=\"guide\"><h2>操作说明</h2><h3>一、选择套餐并拿到订阅</h3><p>在套餐区确认流量与设备数后完成开通。账户中会生成一条订阅 URL。请妥善保存，不要把链接发到公开群组，以免被他人耗尽流量或触发风控。</p><h3>二、下载并安装客户端</h3><p>回到「客户端选择」，按系统安装对应工具。只从快狗官网指引的正规应用商店或官方发布渠道获取安装包，避免来路不明的修改版。</p><h3>三、导入订阅并更新节点</h3><p>打开客户端的订阅/配置页面，粘贴 URL，执行更新。成功后应看到地区分组节点。若列表为空，检查链接是否完整、本地时间是否准确。</p><h3>四、选择节点并开启系统代理</h3><p>网页浏览可选综合延迟较低的节点；流媒体选带解锁标识的线路；游戏优先 IPLC。开启系统代理或 VPN 开关后，用状态页确认出口 IP 已切换。</p><h3>五、分流与省流量</h3><p>国内常用应用建议直连。仅对需要加速的浏览器、视频和游戏走代理，可明显降低套餐消耗。流量将在每个计费周期重置，周期内用尽会限速或中断，需升级套餐或等待重置。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>快狗是什么？和普通加速器有何不同？</summary><p>快狗是提供机场订阅与多端客户端接入的网络加速品牌。它不把用户锁死在单一 App 里，而是给出可导入 Clash、Shadowrocket 等工具的订阅，方便按设备自由选择客户端，并把流媒体解锁、游戏专线与办公访问放在同一套节点池中。</p></details><details><summary>如何完成客户端下载与第一次连接？</summary><p>先根据系统进入本页「客户端选择」，安装对应工具并授予 VPN 或代理权限，再把账户里的订阅链接粘贴到客户端并更新节点，最后挑选一条可用线路开启连接。若提示证书或配置错误，删除旧配置后重新导入一次即可。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>个人轻度浏览选基础版（100GB / 3 设备）。需要原生流媒体、游戏 IPLC 和优先工单选旗舰版。多人共用、网关部署或需要定制路由选团队版。年付按 10 个月计，适合已经验证过线路质量的长期用户。</p></details><details><summary>支持哪些设备同时在线？超量会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出上限时，新设备可能无法握手或会踢掉最早的会话。建议在客户端里为每台设备命名，并定期清理不再使用的会话。</p></details><details><summary>订阅链接泄露了怎么办？</summary><p>立刻在账户中重置订阅。旧链接会失效，需要把新链接重新导入所有客户端。不要把订阅发到论坛或截图传播。团队场景应由管理员统一分发，而不是让成员互相转发同一条 URL。</p></details><details><summary>连接成功但无法播放流媒体或游戏掉线？</summary><p>先更换带解锁标识或 IPLC 标识的节点，关闭客户端里过于激进的广告拦截规则，并确认没有其他 VPN 同时运行。若仅单个应用失败，为该应用单独指定节点。持续异常可通过旗舰版或团队版工单通道反馈节点名称与发生时间。</p></details></section><aside class=\"ads\" id=\"ads\"><h2>合作展示</h2><p>此处为快狗官网信息展示与合作说明位，用于发布客户端版本提示、线路维护窗口和合作渠道介绍。不展示第三方弹窗下载。如需商务对接，请通过页脚中的联系入口。</p></aside><aside class=\"friends\" id=\"links\"><h2>友链</h2><ul><li><a href=\"#\">客户端兼容说明</a></li><li><a href=\"#clients\">多端下载指引</a></li><li><a href=\"#plans\">套餐对照</a></li><li><a href=\"#faq\">订阅常见问题</a></li><li><a href=\"#\">网络加速术语表</a></li></ul></aside></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>快狗官方网站 · 机场订阅与 VPN 梯子客户端下载</p><p>规范文档：<a href=\"#\">sitemap</a> · <a href=\"#intro\">关于快狗</a> · <a href=\"#download\">官方下载</a></p><p>联系与工单请使用账户中心入口。请勿在公共网络分享订阅链接。</p></div></footer>",
+          "hash": "56a5023cef8fe589034847906be3722d62621bf8a518a2aee41b63a9a953d64c",
+          "seo": {
+            "title": "快狗官网下载 | VPN梯子与网络加速客户端",
+            "keywords": "快狗,快狗VPN,快狗机场,梯子,网络加速,加速器,客户端下载,官网,官方下载,机场订阅",
+            "description": "快狗提供机场订阅与VPN梯子网络加速服务，支持多端客户端下载与节点接入，适合办公、流媒体与游戏加速场景。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "laiqd.cn",
+    "host": "p-ecb006bcaf.laiqd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "laiqd.cn",
+      "url": "https://laiqd.cn/",
+      "label": "Miaona",
+      "apex": "laiqd.cn",
+      "kind": null,
+      "identity": "huyrg2721/page-15fef9208b617e113c22778b"
+    },
+    {
+      "host": "awwyv.cn",
+      "url": "https://awwyv.cn/",
+      "label": "快狗",
+      "apex": "awwyv.cn",
+      "kind": null,
+      "identity": "phynwd/page-1c1293cb3388e1a0058f4aba"
+    },
+    {
+      "host": "axrjymu.cn",
+      "url": "https://axrjymu.cn/",
+      "label": "快狗",
+      "apex": "axrjymu.cn",
+      "kind": null,
+      "identity": "fwsjtymby/page-ee6f76bbfdf20cd1c3b15dab"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2454ed46722fdf853563f8f3fdc2a2bfe8c29f2b37a6219335d40bc2562978f5",
+    "sitemap.xml": "322624eff6d3e251e7a47722e78e2715108abed5aa11421aeffc4b1725e4082a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e9ea0b5d09ce98dbe0a96eb8aa2c6e2bffabd3b6ea8c615eb655fffb041a99ad",
+    "robots.txt": "98c0ec2c2a32df606905b0766ec2976964be0a68b6c6acae7487cd2cb74bffab",
+    "3b5a3ba642796537dd095e8995ac40b2.txt": "398d09ef6cdc975e7a8a3f955c4785bef4f0b1064ad3f3f93b69f9dd2f146d3c"
+  },
+  "revision": "db321367389f41db2815a31c3d80c30e8345093aa0481d48e6016c2934be8a74"
+}
